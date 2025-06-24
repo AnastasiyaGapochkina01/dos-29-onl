@@ -36,7 +36,7 @@ server.serve_forever()
     </style>
 </head>
 <body>
-    <div class="greeting">Привет, мир!</div>
+    <div class="greeting">Hello, DOS-29-ONL! You are amazing!</div>
 </body>
 </html>
 ```
