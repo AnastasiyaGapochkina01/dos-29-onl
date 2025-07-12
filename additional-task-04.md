@@ -1,4 +1,8 @@
 # Занятия №11 и №12: Bash/Shell
+Скрипт по проверке сертификатов: https://gist.github.com/AnastasiyaGapochkina01/7e2769368c234811707a8a847f672e20
+
+Скрипт по проверке и рестарту сервисов: https://gist.github.com/AnastasiyaGapochkina01/6bcd2230894f2ebb15e7c21087e0c4ec
+
 ## Регулярные выражения
 1) Написать регулярное выражение, с помощью которого из файла `apache2-error.log` можно получить
 - ip-адрес клиента
