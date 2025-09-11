@@ -1,5 +1,5 @@
 1) Установить Jenkins на ВМ
-2) Ознакомиться с дополнительным материалом ([ссылка]())
+2) Ознакомиться с дополнительным материалом ([ссылка](https://youtu.be/j6a4EgIG7Ps))
 3) Написать простой пайплайн `todoapp-php ci/cd`, состоящий из этапов:
 - initialize - этап выводит приветственное сообщение "Start testing ToDo app; Build ${BUILD_NUMBER}"
 - checkout - этап клонирует репозиторий https://github.com/AnastasiyaGapochkina01/simplest-todo
