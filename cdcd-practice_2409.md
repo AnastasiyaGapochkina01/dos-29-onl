@@ -1,6 +1,6 @@
 ### Infra info
-IP: 89.169.183.250
-User: devops
+IP: 89.169.183.250\
+User: devops\
 Pass: 0000
 
 ### Задание 1
